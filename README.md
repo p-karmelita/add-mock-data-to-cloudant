@@ -1,1 +1,1 @@
-# ADD-MOCK-DATA-TO-CLOUDANT
+run python inject_mock_data.py
